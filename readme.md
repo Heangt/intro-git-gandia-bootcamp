@@ -16,4 +16,4 @@ Este repo tiene el objetivo de aprender a usar git y github
 - Jonathan
 - javier orts
 
--david
+-david- victor
